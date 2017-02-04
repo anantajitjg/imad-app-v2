@@ -1,12 +1,12 @@
 {
-  "name": "imad-2016-base",
-  "version": "0.1.0",
-  "description": "IMAD 2016 course app",
+  "name": "imad-v2-app",
+  "version": "0.2.0",
+  "description": "IMAD v2 course app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Anantajit.J.G",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
